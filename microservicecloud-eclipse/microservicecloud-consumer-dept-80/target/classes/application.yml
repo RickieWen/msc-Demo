@@ -4,6 +4,6 @@ server:
   
 eureka:
   client:
-    register-with-eureka: false
+    register-with-eureka: false	# \u5f53\u524d\u5fae\u670d\u52a1\u4e0d\u6ce8\u518c\u5230eureka\u4e2d(\u6d88\u8d39\u7aef)
     service-url: 
       defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/  

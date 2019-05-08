@@ -13,8 +13,10 @@ import com.atguigu.springcloud.entities.Dept;
 @RestController
 public class DeptController_Consumer
 {
-
+    // 传统的方式，直接显示写死IP是不好的！
 	//private static final String REST_URL_PREFIX = "http://localhost:8001";
+	
+	 // 服务实例名
 	private static final String REST_URL_PREFIX = "http://MICROSERVICECLOUD-DEPT";
 
 	/**
