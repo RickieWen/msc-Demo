@@ -41,8 +41,6 @@ public class DeptController
 	}
 
 	
-//	@Autowired
-//	private DiscoveryClient client;
 	@RequestMapping(value = "/dept/discovery", method = RequestMethod.GET)
 	public Object discovery()
 	{
