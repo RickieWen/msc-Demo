@@ -8,6 +8,10 @@ import com.atguigu.springcloud.entities.Dept;
 
 import feign.hystrix.FallbackFactory;
 
+/**
+ * Feign中使用断路器
+ * 这里主要是处理异常出错的情况(降级/熔断时服务不可用，fallback就会找到这里来)
+ */
 @Component // 不要忘记添加，不要忘记添加
 public class DeptClientServiceFallbackFactory implements FallbackFactory<DeptClientService>
 {

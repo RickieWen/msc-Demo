@@ -1,5 +1,20 @@
 /microservicecloud-eclipse/microservicecloud-consumer-dept-feign/.gitignore
+
 /microservicecloud-eclipse/microservicecloud-eureka-7001/.gitignore
 /microservicecloud-eclipse/microservicecloud-eureka-7002/.gitignore
 /microservicecloud-eclipse/microservicecloud-eureka-7003/.gitignore
 
+/microservicecloud-eclipse/microservicecloud-config-3344/.gitignore
+/microservicecloud-eclipse/microservicecloud-config-client-3355/.gitignore
+/microservicecloud-eclipse/microservicecloud-config-dept-client-8001/.gitignore
+
+/microservicecloud-eclipse/microservicecloud-config-eureka-client-7001/.gitignore
+/microservicecloud-eclipse/microservicecloud-consumer-dept-80/.gitignore
+/microservicecloud-eclipse/microservicecloud-consumer-hystrix-dashboard/.gitignore
+
+/microservicecloud-eclipse/microservicecloud-provider-dept-8001/.gitignore
+/microservicecloud-eclipse/microservicecloud-provider-dept-8002/.gitignore
+/microservicecloud-eclipse/microservicecloud-provider-dept-8003/.gitignore
+
+/microservicecloud-eclipse/microservicecloud-provider-dept-hystrix-8001/.gitignore
+/microservicecloud-eclipse/microservicecloud-zuul-gateway-9527/.gitignore
