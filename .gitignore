@@ -171,3 +171,4 @@ microservicecloud-eclipse/microservicecloud-zuul-gateway-9527/bin/.settings/org.
 microservicecloud-eclipse/microservicecloud-zuul-gateway-9527/bin/pom.xml
 microservicecloud-eclipse/microservicecloud-zuul-gateway-9527/bin/src/main/java/com/atguigu/springcloud/Zuul_9527_StartSpringCloudApp.class
 microservicecloud-eclipse/microservicecloud-zuul-gateway-9527/bin/src/main/resources/application.yml
+microservicecloud-eclipse/microservicecloud-api/bin/.gitignore
